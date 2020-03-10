@@ -7,3 +7,29 @@ img {
     max-width: 300px;
     width: 300%;
 }
+
+#color1 {
+  background-color: #5742B3;
+  width: 100px;
+  height: 100px;
+}
+#color2 {
+  background-color: #FFC191;
+  width: 100px;
+  height: 100px;
+}
+#color3 {
+  background-color: #9179FF;
+  width: 100px;
+  height: 100px;
+}
+#color4 {
+  background-color: #5EFF5F;
+  width: 100px;
+  height: 100px;
+}
+#color5 {
+  background-color: #4BB34B;
+  width: 100px;
+  height: 100px;
+}
